@@ -1,0 +1,11 @@
+{
+    "name": "yusuf/composer2",
+    "description": "Composer2",
+    "authors": [
+        {
+            "name": "yusuf celik",
+            "email": "erguculu@gmail.com"
+        }
+    ],
+    "require": {}
+}
