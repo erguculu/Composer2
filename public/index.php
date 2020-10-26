@@ -4,8 +4,6 @@ require_once '../vendor/autoload.php';
 
 use App\Wcs\Hello;
 
-$a = new Hello();
-echo $a->talk().'<br>';
+$hello = new HelloWorld\SayHello();
 
-$hellocomposer = new Hello();
-echo $hellocomposer->world();
+echo $hello->world();
